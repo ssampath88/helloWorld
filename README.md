@@ -1,3 +1,3 @@
 # helloWorld
 My first repository
-What is devops?
+I love to geek out and party
